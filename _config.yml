@@ -8,12 +8,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : James Hong Portfolio
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+name                     : James Hong
+description              : James Hong - Projects and CV 
+baseurl                  : "fa25-portfolio-jh2876-maker" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
